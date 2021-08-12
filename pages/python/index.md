@@ -1,6 +1,6 @@
-# Python
+## Python
 
-## [Home](../../index.md)
+### [Home](../../index.md)
 <br/>
 
 - [Comando print](dicas/print.md)

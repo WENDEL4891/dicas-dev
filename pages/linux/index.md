@@ -1,6 +1,6 @@
-# Linux
+## Linux
 
-## [Home](../../index.md)
+### [Home](../../index.md)
 <br/>
 
 - [Gerenciando processos em background](dicas/bg.md)

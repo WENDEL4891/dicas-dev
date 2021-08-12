@@ -1,6 +1,6 @@
-# Postgres
+## Postgres
 
-## [Home](../../index.md)
+### [Home](../../index.md)
 <br/>
 
 - [Comandos básicos](dicas/comandos-basicos.md)
