@@ -1,10 +1,8 @@
 # Dicas úteis para desenvolvimento de softwares
 
 
-## Endereço do projeto
+## Endereço do projeto:
 [dicas-dev.com](https://wendel4891.github.io/dicas-dev)
-
-\
 
 ## Itens a serem finalizados:
 
