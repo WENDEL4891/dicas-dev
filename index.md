@@ -5,6 +5,7 @@
 ## - [Postgres](pages/postgres/index.md)
 ## - [Python](pages/python/index.md)
 ## - [Git](pages/git/index.md)
+## - [Django](pages/django/index.md)
 
 
 <script
