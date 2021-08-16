@@ -79,4 +79,4 @@ python manage.py command --settings nome_do_projeto.settings.local
 ```
 __**Obs. nome_do_projeto.settings.local, nome_do_projeto.settings.pro, ou outro, conforme cada ambiente.**__
 
-Uma alternativa mais viável é definir uma variável de ambiente, DJANGO_SETTINGS_MODULE, com o valor `nome_do_projeto.settings.\[pro \| local \| outro, conforme o caso\]`.
+Uma alternativa mais viável é definir uma variável de ambiente, DJANGO_SETTINGS_MODULE, com o valor nome_do_projeto.settings.\[pro \| local \| outro, conforme o caso\].
